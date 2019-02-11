@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pophah.ilovecuina.com/sitemap.xml
